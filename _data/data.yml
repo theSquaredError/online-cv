@@ -15,9 +15,9 @@ sidebar:
     # Sidebar links
     email: cs21s001@iittp.ac.in
     phone: +917860010819
-    timezone: India/New Delhi Timezone
+    # timezone: India/New Delhi Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
+    # website: blog.webjeda.com #do not add http://
     linkedin: vizzard110
     # xing: alandoe
     github: thesquarederror
@@ -43,10 +43,10 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Sports
           link:
 
-        - item: Snowboarding
+        - item: Movies
           link:
 
         - item: Cooking
@@ -64,9 +64,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: B.Tech in Computer Science 
+        university: Ambalika Institute of Management & Technology, Lucknow
+        time: 2016 - 2020
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -75,9 +75,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: MS(by Research) in Reinforcement Learning
+        university: Indian Institute of Technology, Tirupati
+        time: 2021 - 2023
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
