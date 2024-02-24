@@ -241,11 +241,11 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Pytorch, Tensorflow
+        level: 90%
 
       - name: Angular
         level: 98%
