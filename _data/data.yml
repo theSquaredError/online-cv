@@ -55,12 +55,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I completed my BTech in Computer Science and am currently pursuing an MS in Reinforcement Learning with a 
+      research focus on emergent communication in multi-agent populations. My interest lies in multi-agent reinforcement learning and machine learning
+      including theory and practical. My goal is to contribute to the development of AI technologies, particularly in areas that require complex decision-
+      making and coordination among multiple agents. My current research aims to understand how agents in a population can develop communication
+      protocols without explicit instructions, showcasing my ability to think creatively and analytically.
 education:
     title: Education
     info:
